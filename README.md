@@ -1,2 +1,2 @@
 # Server_Performance
-cript to analyse basic server performance stats
+Script to analyse basic server performance stats
